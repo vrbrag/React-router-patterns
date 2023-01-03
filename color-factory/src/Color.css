@@ -1,0 +1,15 @@
+.Color {
+   text-align: center;
+   color: white;
+   font-size: 2rem;
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-shadow: black 0 0 15px;
+}
+
+.Color a{
+   color: white;
+}

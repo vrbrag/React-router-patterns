@@ -1,0 +1,22 @@
+.ColorList {
+   text-align: center;
+}
+
+.ColorList-header {
+   background-color: black;
+   color: white;
+   padding: 30px;
+}
+
+.ColorList-header a {
+   color: white;
+}
+
+.ColorList-list {
+   color: black;
+}
+
+ul {
+   list-style: none;
+   padding: 0;
+}

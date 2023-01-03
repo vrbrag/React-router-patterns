@@ -1,0 +1,22 @@
+.NewColorForm{
+   text-align: center;
+   justify-content: center;
+   display: flex;
+   flex-direction: colomn;
+   background: linear-gradient(to right, red, orange, yellow, green, blue, violet);
+   width: 100vw;
+   height: 100vh;
+   align-items: center;
+}
+
+.NewColorForm form {
+   width: 50%;
+   background-color: white;
+   border: black;
+   border-radius: 10px;
+   padding: 50px;
+}
+
+.NewColorForm form div {
+   padding: 15px;
+}
