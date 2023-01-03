@@ -1,0 +1,30 @@
+.DogDetails {
+   display: inline;
+   text-align: center;
+   
+}
+.DogDetails img {
+   text-align: center;
+   max-width: 50%;
+   border-radius: 5%;
+   margin-top: 1rem;
+   border: 8px solid rgb(97, 0, 97);
+   box-shadow: 0 0 10px #9e9e9e;
+   padding: 00.2em;
+ }
+
+ .facts {
+   text-align: center;
+   position: relative;
+   top: 0;
+   left: 0;
+   /* width: 50%; */
+   height: 100%;
+   background-color: rgba(255, 255, 255, 0.5); 
+   border: 2px solid rgb(97, 0, 97);
+   border-radius: 10px;
+ }
+
+ .nobull {
+   list-style-type: none;
+  }

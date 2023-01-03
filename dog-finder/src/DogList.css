@@ -1,0 +1,20 @@
+.DogList {
+   text-align: center;
+}
+.DogList h1 {
+   background-color: thistle;
+}
+
+.DogList img {
+   width: 15rem;
+   border-radius: 100%;
+   border: 8px solid rgb(97, 0, 97);
+   box-shadow: 0 0 10px #9e9e9e;
+   padding: 00.2em;
+}
+
+.DogList a{
+   color: rgb(97, 0, 97);
+   font-size: larger;
+}
+

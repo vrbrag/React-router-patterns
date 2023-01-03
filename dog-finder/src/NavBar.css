@@ -1,0 +1,19 @@
+nav  {
+   background-color: rgb(97, 0, 97);
+   text-align: center;
+
+}
+
+nav a {
+   color: tan;
+   padding: 0.5em;
+   display: inline-block;
+}
+
+nav a.active {
+   color: white;
+}
+
+nav a:hover{
+   color: black;
+}
